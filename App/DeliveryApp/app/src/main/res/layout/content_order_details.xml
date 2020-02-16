@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.deliveryapp.activities.OrderDetailsActivity"
+    tools:showIn="@layout/activity_order_details">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:text="ORDER DETAILS"
+        android:id="@+id/dtlTitle"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dtlTitle"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/textViewOrderId"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewOrderId"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/textViewCustName"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewCustName"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/textViewCustMobile"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewCustMobile"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/textViewProductName"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewProductName"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:id="@+id/textViewTotalCost"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewTotalCost"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="@color/colorPrimary"
+        android:text="Mark Delivered"
+        android:id="@+id/buttonMarkDelivared"/> <!--android:textColor="@color/colorTestAccentAndPrinary"-->
+
+</RelativeLayout>

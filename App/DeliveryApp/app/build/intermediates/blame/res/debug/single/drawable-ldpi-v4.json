@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_person_outline.png",
+        "source": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person_outline.png"
+    },
+    {
+        "merged": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_lock_outline.png",
+        "source": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lock_outline.png"
+    },
+    {
+        "merged": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_flash_on_black_24dp.png",
+        "source": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_flash_on_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_account.png",
+        "source": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_account.png"
+    },
+    {
+        "merged": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_lock_open.png",
+        "source": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lock_open.png"
+    },
+    {
+        "merged": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_flash_off_black_24dp.png",
+        "source": "/Users/Anirudh/Documents/AndroidProjects/DeliveryApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_flash_off_black_24dp.png"
+    }
+]
